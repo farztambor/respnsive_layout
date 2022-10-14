@@ -1,2 +1,2 @@
 # respnsive_layout
-Website responsive layout
+Website responsive layout by edureka
